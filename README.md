@@ -8,7 +8,11 @@ Over 30 students [helped design and 3D print an accessible periodic table displa
 A total of 118 chemical elements are in the periodic table, there are 118 3D printed models (tiles) plus two tiles of the representation of actinide and lanthanide series. All models have to print as they are due to the size of the standard brille. If you would like to have individual components for any of the tiles for dual-color printing or scaling or other purposes, please contact us by sending emails to zhangcu2@msu.edu.
  
 ## Print settings:
-Rafts：No
-Supports: No
-Resolution：high resolution (0.1 mm)
-Infill: 10%
+
+**Rafts:** No
+
+**Supports:** No
+
+**Resolution:** high resolution (0.1 mm)
+
+**Infill:** 10%
