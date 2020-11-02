@@ -1,7 +1,7 @@
 # 3D Printed Periodic Table
 
 ## Summary:
-Over 30 students [helped design and 3D print an accessible periodic table display](https://research.msu.edu/periodic-table-project-makes-headlines-at-national-acs-conference/) to celebrate the International Year of the Periodic Table. They learned and utilized TinkerCAD to create 3D-printable tiles that displayed the Braille and sign language for each element. Each tile is 127x127 mm (5 in x 5 in), creating an impressive 4 ft x 8 ft display!
+Over 30 students [helped design and 3D print an accessible periodic table display](https://standrews.msu.edu/2019/12/03/periodic-table-project-makes-headlines-at-national-acs-conference/) to celebrate the International Year of the Periodic Table. They learned and utilized TinkerCAD to create 3D-printable tiles that displayed the Braille and sign language for each element. Each tile is 127x127 mm (5 in x 5 in), creating an impressive 4 ft x 8 ft display!
 
 ![3D printed accessible periodic table](https://research.msu.edu/wp-content/uploads/2020/02/acs-1.jpg)
  
